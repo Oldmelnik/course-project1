@@ -1,0 +1,43 @@
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe.config
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.pdb
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.dll
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.xml
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csprojAssemblyReference.cache
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Properties.Resources.resources
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csproj.GenerateResource.cache
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csproj.CoreCompileInputs.cache
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csproj.CopyComplete
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.exe
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.pdb
+C:\Users\i\source\repos\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Form1.resources
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe.config
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.exe
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.pdb
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.pdb
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Form1.resources
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Properties.Resources.resources
+C:\Users\student\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csproj.GenerateResource.Cache
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe.config
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.exe
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.pdb
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.pdb
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.dll
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.dll
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.xml
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.xml
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Form1.resources
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Properties.Resources.resources
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csproj.GenerateResource.Cache
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csprojAssemblyReference.cache
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csproj.CoreCompileInputs.cache
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.csproj.CopyComplete

@@ -1,0 +1,30 @@
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD13.csprojAssemblyReference.cache
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Properties.Resources.resources
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD13.csproj.GenerateResource.cache
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD13.csproj.CoreCompileInputs.cache
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.exe
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.pdb
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.FormMain.resources
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe.config
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.pdb
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.dll
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.dll
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.xml
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.xml
+D:\4 курс\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD13.csproj.CopyComplete
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe.config
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.pdb
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.dll
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.xml
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD13.csprojAssemblyReference.cache
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.FormMain.resources
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Properties.Resources.resources
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD13.csproj.GenerateResource.cache
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD13.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD13.csproj.CopyComplete
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.exe
+C:\Users\Саша\Desktop\Кусенов\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.pdb

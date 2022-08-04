@@ -1,0 +1,14 @@
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe.config
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.exe
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\WindowsFormsApp27.pdb
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.dll
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.xml
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD10.csprojAssemblyReference.cache
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.FormMain.resources
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.Properties.Resources.resources
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD10.csproj.GenerateResource.cache
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsAppBD10.csproj.CopyComplete
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.exe
+C:\Users\yuriu\Desktop\WindowsFormsApp27\WindowsFormsApp27\obj\Debug\WindowsFormsApp27.pdb
